@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ml-starr
 - 👀 I’m interested in electrical/audio engineering
 - 🌱 I’m currently learning C++ and Java
-- 💞️ I’m looking to collaborate on literally anything.
-- 📫 How to reach me...Mlstark2026@gmail.com
+- 💞️ I’m looking to collaborate on literally anything. I am open to learning new things!
+- 📫 How to reach me: mlstark2026@gmail.com
 - 😄 Pronouns: She/They
 - ⚡ Fun fact: I know how to fire dance :)
 
